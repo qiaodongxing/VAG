@@ -1,2 +1,2 @@
 # VAG
-This is a sparse CBCT reconstruction effort, and the code is being updated
+This is a sparse CBCT reconstruction work, and the code is being updated
