@@ -1,6 +1,7 @@
 # [VAG: Voxel Attenuation Grid For Sparse-View CBCT Reconstruction](https://ieeexplore.ieee.org/document/10647311)
 
 Sparse view CBCT reconstruction has become one of the important research fields to reduce the radiation impact of CT scanning. However, the reconstruction of high-quality 3D CT volumes from sparse and noisy CBCT data still faces challenges such as slow convergence, long computation time, and increased noise. In light of these issues, we propose a voxel attenuation grid representation to explicitly model the attenuation field of the 3D CT volume. Since this representation does not involve the implementation of neural networks, our method for reconstruction is extremely fast. Furthermore, trim regularization and total variation regularization terms are introduced on top of the mean square error loss to optimize the voxel attenuation grid and significantly reduce the noise in the reconstructed 3D CT volume.
+![The Pipeline of the proposed VAG method](https://github.com/user-attachments/assets/af98d92c-4778-46bd-b79f-910454b2021b)
 
 This is a sparse CBCT reconstruction work, and the code is being updated
 
