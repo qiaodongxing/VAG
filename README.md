@@ -13,6 +13,7 @@ We recommend setup with a conda environment, using the packages provided in requ
 ```python plenoptimize.py```
 
 ## Data
+You can download the sample data from [Google Cloud Drive](https://drive.google.com/drive/folders/1LS4OtfQvWhHpcH4Z9SvAYGMZwF69Sa5V?usp=drive_link) and put it under the data folder
 You can process your own CT data following the instructions in [NAF project](https://github.com/Ruyi-Zha/naf_cbct/tree/main?tab=readme-ov-file)
 
 ## Acknowledgement
