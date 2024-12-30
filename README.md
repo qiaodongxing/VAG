@@ -6,13 +6,13 @@ Sparse view CBCT reconstruction has become one of the important research fields 
 This is a sparse CBCT reconstruction work, and the code is being updated
 
 
-##Setup##
+##Setup
 We recommend setup with a conda environment, using the packages provided in requirements.txt.
 
-##Reconstruction##
+##Reconstruction
 ```python plenoptimize.py```
 
-##Data ##
+##Data
 You can process your own CT data following the instructions in [NAF project](https://github.com/Ruyi-Zha/naf_cbct/tree/main?tab=readme-ov-file)
 
 #Acknowledgement##
