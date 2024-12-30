@@ -18,4 +18,4 @@ You can process your own CT data following the instructions in [NAF project](htt
 ## Acknowledgement
 JAX implementation and code structure are adapted from[here](https://github.com/sarafridov/plenoxels).
 Many thanks to the amazing TIGRE [toolbox](https://github.com/CERN/TIGRE).
-The process of data processing borrows from the [NAF project](https://github.com/Ruyi-Zha/naf_cbct/tree/main?tab=readme-ov-file)
+The data processing borrows from the [NAF project](https://github.com/Ruyi-Zha/naf_cbct/tree/main?tab=readme-ov-file)
